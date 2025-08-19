@@ -1,3 +1,3 @@
 # urban-broccoli
-This is my first GitHub repository, learning GitHub step by step
+This is my first GitHub repository, learning GitHub step by step  
 Trying out branching rn
